@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mawazawa-agentic-pdf-app-badge.png)](https://mseep.ai/app/mawazawa-agentic-pdf-app)
+
 # Agentic PDF Form Filler
 
 A visually stunning, minimalist system for automatically filling California court PDF forms using information extracted from donor documents.
